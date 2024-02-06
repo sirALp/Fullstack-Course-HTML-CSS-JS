@@ -65,3 +65,15 @@ header {
         margin-left: 15%;
     }
 }
+
+footer {
+    width: 100%;
+    text-align: center;
+    font-size: 80%;
+    clear:left;
+}
+
+a:link , a:visited {
+    text-decoration: none;
+    color:brown;
+}
