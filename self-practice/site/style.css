@@ -1,0 +1,56 @@
+body {
+    background-color:burlywood;
+    font-size: 20px;
+}
+
+h1 {
+
+}
+
+p {
+    width: 49%;
+    margin: 10px 1px 10px 1px;    
+    background-color: whitesmoke;
+    border-style: border-box;
+    height: 80px;
+    overflow: auto;
+}
+
+a:link , a:visited {
+    text-decoration: none;
+    color:white;
+}
+
+.button:hover , .button:active ,.button > a:hover , .button > a:active {
+    background-color: black;
+    color: red;
+    border-
+}
+
+.button{
+    width: 400px;
+    height: 40px;
+    background-color: cornflowerblue;
+    margin: 5px;
+    border: 5px black solid;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color:whitesmoke;
+}
+
+#left-text {
+    float: left;
+    color:coral
+}
+
+#right-text {
+    float : right;
+    color: purple;
+}
+
+section {
+    border: green solid 2px;
+    height: 100px;
+}
+
