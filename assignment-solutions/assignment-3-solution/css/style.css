@@ -50,6 +50,10 @@ h2 {
     color: #ddd;
 }
 
+footer {
+    color: white;
+}
+
 @media (min-width:992px) {
     #navbarContent ul{
         border-style:none;
