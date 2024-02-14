@@ -1,0 +1,51 @@
+body {
+    font-family: cursive;
+    background-color: rgb(120, 50, 50);
+    overflow-x: hidden;
+}
+
+.navbar {
+    background-color: #ffa01c;
+}
+
+#button {
+    background-color: #fff;
+}
+
+.navbar-nav .nav-item .nav-link{
+    color: #fff;
+    font-size: 2rem;
+}
+
+.navbar #mainHeader {
+    color: #fff;
+    font-size: 3rem;
+}
+
+#navbarContent {
+    border-radius: 2rem;
+    border: 3px solid rgb(120, 50, 50);
+}
+
+hr {
+    width: 75%;
+    margin-left: 12.5%;
+}
+
+#mainContent {
+    margin: 30px;
+    justify-content: center;
+}
+
+#mainContent div {
+    background-color: #ddd;
+    height: 500px;
+    margin: 0 5px 15px 5px;
+    border: 1px groove #222;
+    box-shadow: 2px 2px 15px #ffa01c;
+    overflow-y: auto;
+}
+
+h2 {
+    color: #ddd;
+}
