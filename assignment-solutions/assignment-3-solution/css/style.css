@@ -22,7 +22,7 @@ body {
     font-size: 3rem;
 }
 
-#navbarContent {
+#navbarContent ul {
     border-radius: 2rem;
     border: 3px solid rgb(120, 50, 50);
 }
@@ -48,4 +48,10 @@ hr {
 
 h2 {
     color: #ddd;
+}
+
+@media (min-width:992px) {
+    #navbarContent ul{
+        border-style:none;
+    }
 }
