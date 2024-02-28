@@ -14,5 +14,5 @@ This is the fork repo of HTML,CSS & Js Course on Coursera.
 #### Assignment 1 : Quiz completed. Nothing on paper was asked. 
 #### Assignment 2 : [Visit Website](https://siralp.github.io/Fullstack-Course-HTML-CSS-JS/assignment-solutions/assignment-2-solution/). 
 #### Assignment 3 : [Visit Website](https://siralp.github.io/Fullstack-Course-HTML-CSS-JS/assignment-solutions/assignment-3-solution/).
-#### Assignment 4 : TBA 
+#### Assignment 4 : [Visit Website](https://siralp.github.io/Fullstack-Course-HTML-CSS-JS/assignment-solutions/assignment-4-solution/).
 #### Assignment 5 : TBA 
